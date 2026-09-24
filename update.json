@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
-  "downloadUrl": "https://gitee.com/guqichi/QiChi-MapManager/releases",
+  "version": "0.0.3",
+  "downloadUrl": "https://github.com/guqichi/QiChi-MapManager/releases",
   "notes": "修复若干问题，优化安装流程。"
 }
